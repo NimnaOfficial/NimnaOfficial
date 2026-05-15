@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/cJpmvLFX/ban.png" alt="Nimna Official Banner" width="100%">
+  
 
   <h1>Hi there, I'm Nima 👋</h1>
   <h3>Software Engineering Student | UI/UX Enthusiast | Full-Stack Developer</h3>
@@ -12,6 +12,8 @@
     <a href="mailto:sandanimne01@gmail.com"><img src="https://img.shields.io/badge/Email-%23500299.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </div>
 </div>
+
+<img src="https://i.postimg.cc/cJpmvLFX/ban.png" alt="Nimna Official Banner" width="100%">
 
 ---
 
