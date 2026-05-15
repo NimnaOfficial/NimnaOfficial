@@ -2,7 +2,7 @@
   
   <br>
   
-  <h1>Hi there, I'm Nima 👋</h1>
+  <h1>Hi there, I'm Sandanimne 👋</h1>
   <h3>Software Engineering Student | UI/UX Enthusiast | Full-Stack Developer</h3>
   
   <blockquote>
