@@ -67,11 +67,11 @@
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NimnaOfficial&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=500299&text_color=ffffff&icon_color=500299&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NimnaOfficial&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=500299&text_color=ffffff&icon_color=500299&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NimnaOfficial&theme=tokyonight&background=0D1117&ring=500299&fire=500299&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimnaOfficial&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=500299&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimnaOfficial&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=500299&text_color=ffffff&hide_border=true&cache_seconds=86400" alt="Top Languages" />
   <br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NimnaOfficial&bg_color=0D1117&color=500299&line=500299&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
