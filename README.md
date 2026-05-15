@@ -1,7 +1,4 @@
 <div align="center">
-  
-  <br>
-  
   <h1>Hi there, I'm Sandanimne 👋</h1>
   <h3>Software Engineering Student | UI/UX Enthusiast | Full-Stack Developer</h3>
   
@@ -38,6 +35,8 @@
 <div align="center">
   <p><strong>Languages & Core</strong></p>
   <img src="https://skillicons.dev/icons?i=java,php,js,python,c,cpp,cs,kotlin&perline=10" alt="Languages" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL-%23500299.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <br><br>
   
   <p><strong>Frontend & Design</strong></p>
