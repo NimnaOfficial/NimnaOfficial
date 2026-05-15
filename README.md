@@ -22,12 +22,14 @@
 <br><img src="https://i.postimg.cc/cJpmvLFX/ban.png" alt="Nimna Official Banner" width="100%">
 ---
 
-### ⚡ About Me & Current Focus
+### ⚡ About Me
 
-* 🎓 **Education:** Currently pursuing my Higher National Diploma (HND) in Software Engineering at NIBM.
-* 🔭 **Focusing on:** Mastering Web Development, Advanced System Administration, AI LLMs, and exploring new programming languages.
-* 🤝 **Collaboration:** Open to collaborating on Open-source UI/UX projects, PHP backend systems, desktop/mobile app development, and AI tools.
-* 🎮 **Beyond the Code:** I'm a cinematic video creator, a tech gadget enthusiast, an internet explorer, and a massive football fan.
+I am a dedicated Software Engineering student currently pursuing my Higher National Diploma (HND) at NIBM. With a strong foundation in full-stack development, database architecture, and system administration, I thrive at the intersection of robust backend logic and intuitive UI/UX design. I approach software problem-solving with a creative mindset, drawing from my background in cinematic video creation to build digital products that are both functionally powerful and visually engaging.
+
+* 🚀 **Current Trajectory:** Deep-diving into Advanced System Administration, exploring the capabilities of AI and LLMs, and continuously expanding my programming linguistic toolkit.
+* 🤝 **Collaboration & Open Source:** I am actively seeking opportunities to collaborate on open-source UI/UX initiatives, robust PHP backend systems, cross-platform app development, and innovative AI tools.
+* 💡 **Development Philosophy:** I believe in engineering clean, scalable architectures (utilizing patterns like MVC and DAO) without ever compromising on a seamless, user-centric front-end experience.
+* 🎮 **Off the Clock:** When I'm not compiling code or configuring servers, you will find me producing cinematic videos, exploring the latest tech gadgets, deep-diving into internet culture, or following football.
 
 ---
 
