@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Sandanimne 👋</h1>
+  
+  <h1>Hi there, I'm Nima 👋</h1>
   <h3>Software Engineering Student | UI/UX Enthusiast | Full-Stack Developer</h3>
   
   <blockquote>
@@ -35,8 +36,6 @@
 <div align="center">
   <p><strong>Languages & Core</strong></p>
   <img src="https://skillicons.dev/icons?i=java,php,js,python,c,cpp,cs,kotlin&perline=10" alt="Languages" />
-  <br>
-  <img src="https://img.shields.io/badge/SQL-%23500299.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <br><br>
   
   <p><strong>Frontend & Design</strong></p>
@@ -44,7 +43,7 @@
   <br><br>
 
   <p><strong>Backend, Databases & Infrastructure</strong></p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,git,docker,linux,aws,postman&perline=10" alt="Backend and Infra" />
+  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,mongodb,supabase,git,docker,linux,aws,postman&perline=10" alt="Backend and Infra" />
 </div>
 
 ---
