@@ -20,7 +20,6 @@
   </p>
 </div>
 <br><img src="https://i.postimg.cc/cJpmvLFX/ban.png" alt="Nimna Official Banner" width="100%">
----
 
 ### ⚡ About Me
 
