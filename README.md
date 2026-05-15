@@ -20,7 +20,7 @@
 </div>
 <br><img src="https://i.postimg.cc/cJpmvLFX/ban.png" alt="Nimna Official Banner" width="100%">
 
-### ⚡ About Me
+## ⚡ About Me
 
 I am a dedicated Software Engineering student currently pursuing my Higher National Diploma (HND) at NIBM. With a strong foundation in full-stack development, database architecture, and system administration, I thrive at the intersection of robust backend logic and intuitive UI/UX design. I approach software problem-solving with a creative mindset, drawing from my background in cinematic video creation to build digital products that are both functionally powerful and visually engaging.
 
