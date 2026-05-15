@@ -67,12 +67,13 @@
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NimnaOfficial&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=500299&text_color=ffffff&icon_color=500299&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NimnaOfficial&theme=tokyonight&background=0D1117&ring=500299&fire=500299&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NimnaOfficial&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0D1117&amp;title_color=500299&amp;text_color=ffffff&amp;icon_color=500299&amp;hide_border=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NimnaOfficial&amp;theme=tokyonight&amp;background=0D1117&amp;ring=500299&amp;fire=500299&amp;currStreakNum=ffffff&amp;hide_border=true" alt="GitHub Streak" />
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimnaOfficial&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=500299&text_color=ffffff&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimnaOfficial&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0D1117&amp;title_color=500299&amp;text_color=ffffff&amp;hide_border=true" alt="Top Languages" />
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NimnaOfficial&bg_color=0D1117&color=500299&line=500299&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NimnaOfficial&amp;bg_color=0D1117&amp;color=500299&amp;line=500299&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
