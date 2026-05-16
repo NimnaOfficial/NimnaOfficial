@@ -6,11 +6,7 @@
     <p><em>"No turns, just straight"</em></p>
   </blockquote>
 
-  <p>
-    <a href="https://github.com/NimnaOfficial">
-      <img src="https://komarev.com/ghpvc/?username=NimnaOfficial&label=Profile%20Views&color=500299&style=for-the-badge" alt="Profile Views" />
-    </a>
-  </p>
+
 
   <p>
     <a href="https://nimnaofficial.github.io/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-%23500299.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"></a>
