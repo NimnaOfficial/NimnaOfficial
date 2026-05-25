@@ -98,6 +98,10 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" alt="Postman" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="55" alt="Apache Tomcat" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="55" alt="Apache Maven" />
+
   <br><br>
 
   <!-- Tools -->
