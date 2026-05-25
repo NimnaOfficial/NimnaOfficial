@@ -35,8 +35,25 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
 <div align="center">
   <p><strong>Languages & Core</strong></p>
-  <img src="https://skillicons.dev/icons?i=java,php,js,python,c,cpp,cs,kotlin&perline=10" alt="Languages" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" alt="Java" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" alt="PHP" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" alt="C" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" alt="C++" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" alt="C#" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" alt="Kotlin" />
+
   <br><br>
+</div>
   
   <p><strong>Frontend & Design</strong></p>
 
