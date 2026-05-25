@@ -139,6 +139,39 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
 <img src="https://cdn.simpleicons.org/cisco" width="55" alt="Cisco" />
 
+<p><strong>Platforms, Security & Tools</strong></p>
+
+
+</br></br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="55" alt="Ubuntu" />
+
+<img src="https://cdn.simpleicons.org/archlinux" width="55" alt="BlackArch Linux" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" alt="Android Studio" />
+
+<img src="https://cdn.simpleicons.org/vercel" width="55" alt="Vercel" />
+
+<img src="https://cdn.simpleicons.org/render" width="55" alt="Render" />
+
+<img src="https://cdn.simpleicons.org/cisco" width="55" alt="Cisco Packet Tracer" />
+
+<img src="https://cdn.simpleicons.org/wireshark" width="55" alt="Wireshark" />
+
+<img src="https://cdn.simpleicons.org/adobeaftereffects" width="55" alt="Adobe After Effects" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="55" alt="Pascal" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" alt="Oracle" />
+
+<img src="https://cdn.simpleicons.org/hashicorp" width="55" alt="Fencracker" />
+
+<img src="https://cdn.simpleicons.org/hashcat" width="55" alt="Hashcat" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="55" alt="Vim" />
+
+<br><br>
+
 </div>
 
 ---
