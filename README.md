@@ -34,6 +34,8 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 ### 💻 Tech Stack & Arsenal
 
 <div align="center">
+
+  <!-- Languages & Core -->
   <p><strong>Languages & Core</strong></p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" alt="Java" />
@@ -53,28 +55,55 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" alt="Kotlin" />
 
   <br><br>
-</div>
-  
+
+  <!-- Frontend & Design -->
   <p><strong>Frontend & Design</strong></p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React" />
 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" alt="Tailwind CSS" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" alt="Tailwind CSS" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="55" alt="Adobe Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="55" alt="Adobe Illustrator" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="55" alt="Adobe Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="55" alt="Adobe Photoshop" />
 
-<br><br>
-
-  <p><strong>Backend, Databases & Infrastructure</strong></p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,mongodb,supabase,git,docker,linux,aws,postman&perline=10" alt="Backend and Infra" />
   <br><br>
 
+  <!-- Backend, Databases & Infrastructure -->
+  <p><strong>Backend, Databases & Infrastructure</strong></p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" alt="Spring" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="MySQL" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" alt="MongoDB" />
+
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="55" alt="Supabase" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" />
+
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" alt="Postman" />
+
+  <br><br>
+
+  <!-- Tools -->
   <p><strong>Tools</strong></p>
-<img src="https://skillicons.dev/icons?i=vscode,Intellijidea&perline=10" alt="Tools" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" alt="IntelliJ IDEA" />
+
+</div>
 
 ---
 
