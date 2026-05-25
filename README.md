@@ -44,6 +44,10 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
   <p><strong>Backend, Databases & Infrastructure</strong></p>
   <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,mongodb,supabase,git,docker,linux,aws,postman&perline=10" alt="Backend and Infra" />
+  <br><br>
+
+  <p><strong>Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=vs code,filezilla&perline=10" alt="Backend and Infra" />
 </div>
 
 ---
