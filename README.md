@@ -74,6 +74,8 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="55" alt="Apache Maven" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="55" alt="MS SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="55" alt="MariaDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" alt="MongoDB" />
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="55" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" alt="Oracle" />
