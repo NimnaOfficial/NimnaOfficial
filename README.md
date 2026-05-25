@@ -60,6 +60,7 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="55" alt="Adobe Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="55" alt="Adobe Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="55" alt="Adobe After Effects" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55" alt="Blender" />
 
   <br><br>
@@ -128,6 +129,14 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
   <img src="https://cdn.simpleicons.org/hashicorp" width="55" alt="Ferncracker" />
 
   <br><br>
+
+  <p><strong>🔌 Electronics & Embedded</strong></p>
+
+<img src="https://cdn.simpleicons.org/arduino" width="55" alt="Arduino IDE" />
+
+<img src="https://cdn.simpleicons.org/tinkercad" width="55" alt="Tinkercad" />
+
+<br><br>
 
   <p><strong>🤖 AI Tools & Platforms</strong></p>
 
