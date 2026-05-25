@@ -123,6 +123,8 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
   <img src="https://cdn.simpleicons.org/wireshark" width="55" alt="Wireshark" />
   <img src="https://cdn.simpleicons.org/hashcat" width="55" alt="Hashcat" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="55" alt="VMware" />
+  <img src="https://cdn.simpleicons.org/openwall" width="55" alt="John the Ripper" />
+  <img src="https://cdn.simpleicons.org/hashicorp" width="55" alt="Ferncracker" />
 
 </div>
 
