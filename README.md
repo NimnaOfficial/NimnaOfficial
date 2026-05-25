@@ -47,7 +47,7 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
   <br><br>
 
   <p><strong>Tools</strong></p>
-<img src="https://skillicons.dev/icons?i=vscode,filezilla&perline=10" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=vscode,Intellijidea&perline=10" alt="Tools" />
 
 ---
 
