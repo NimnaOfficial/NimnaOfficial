@@ -97,11 +97,34 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
   <br><br>
 
   <!-- Tools -->
-  <p><strong>Tools</strong></p>
+<p><strong>Development Tools</strong></p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" alt="IntelliJ IDEA" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" alt="Spring Tool" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="55" alt="Apache NetBeans" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" width="55" alt="Code::Blocks" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" alt="MongoDB Compass" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="55" alt="XAMPP" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="55" alt="PyCharm" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55" alt="Blender" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="55" alt="VMware" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="55" alt="FileZilla" />
+
 
 </div>
 
