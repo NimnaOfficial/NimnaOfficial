@@ -129,6 +129,8 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="55" alt="Visual Studio" />
 
+</br></br>
+
 <p><strong>Systems & Networking</strong></p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="55" alt="Kali Linux" />
