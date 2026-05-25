@@ -35,142 +35,94 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
 <div align="center">
 
-  <!-- Languages & Core -->
-  <p><strong>Languages & Core</strong></p>
+  <!-- Languages -->
+  <p><strong>🧠 Languages</strong></p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" alt="Java" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" alt="PHP" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" alt="HTML5" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" alt="CSS3" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" alt="C" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" alt="C++" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" alt="C#" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="55" alt="Pascal" />
 
   <br><br>
 
-  <!-- Frontend & Design -->
-  <p><strong>Frontend & Design</strong></p>
+  <!-- Frontend & UI -->
+  <p><strong>🎨 Frontend & UI/UX</strong></p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React" />
-
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" alt="Tailwind CSS" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="55" alt="Adobe Illustrator" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="55" alt="Adobe Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="55" alt="Adobe Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55" alt="Blender" />
 
   <br><br>
 
-  <!-- Backend, Databases & Infrastructure -->
-  <p><strong>Backend, Databases & Infrastructure</strong></p>
+  <!-- Backend & Database -->
+  <p><strong>⚙️ Backend, Database & APIs</strong></p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" alt="Spring" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="55" alt="Apache Tomcat" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="55" alt="Apache Maven" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="MySQL" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" alt="MongoDB" />
-
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="55" alt="Supabase" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" alt="Oracle" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" alt="Postman" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="55" alt="Apache Tomcat" />
+  <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="55" alt="Apache Maven" />
+  <!-- Cloud & Deployment -->
+  <p><strong>☁️ Cloud, DevOps & Deployment</strong></p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/vercel" width="55" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/render" width="55" alt="Render" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="55" alt="FileZilla" />
 
   <br><br>
 
-  <!-- Tools -->
-<p><strong>Development Tools</strong></p>
+  <!-- IDEs & Development Tools -->
+  <p><strong>🛠️ IDEs & Development Tools</strong></p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="55" alt="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="55" alt="PyCharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="55" alt="Apache NetBeans" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="55" alt="Vim" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" alt="Spring Tool" />
+  <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="55" alt="Apache NetBeans" />
+  <!-- Operating Systems -->
+  <p><strong>🖥️ Operating Systems</strong></p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="55" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="55" alt="CentOS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="55" alt="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/archlinux" width="55" alt="BlackArch Linux" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker" />
+  <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="55" alt="PyCharm" />
+  <!-- Networking & Cybersecurity -->
+  <p><strong>🔐 Networking & Cybersecurity</strong></p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55" alt="Blender" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="55" alt="VMware" />
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="55" alt="FileZilla" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="55" alt="Visual Studio" />
-
-</br></br>
-
-<p><strong>Systems & Networking</strong></p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="55" alt="Kali Linux" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="55" alt="CentOS" />
-
-<img src="https://cdn.simpleicons.org/cisco" width="55" alt="Cisco" />
-
-<p><strong>Platforms, Security & Tools</strong></p>
-
-
-</br></br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="55" alt="Ubuntu" />
-
-<img src="https://cdn.simpleicons.org/archlinux" width="55" alt="BlackArch Linux" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" alt="Android Studio" />
-
-<img src="https://cdn.simpleicons.org/vercel" width="55" alt="Vercel" />
-
-<img src="https://cdn.simpleicons.org/render" width="55" alt="Render" />
-
-<img src="https://cdn.simpleicons.org/cisco" width="55" alt="Cisco Packet Tracer" />
-
-<img src="https://cdn.simpleicons.org/wireshark" width="55" alt="Wireshark" />
-
-<img src="https://cdn.simpleicons.org/adobeaftereffects" width="55" alt="Adobe After Effects" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="55" alt="Pascal" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" alt="Oracle" />
-
-<img src="https://cdn.simpleicons.org/hashicorp" width="55" alt="Fencracker" />
-
-<img src="https://cdn.simpleicons.org/hashcat" width="55" alt="Hashcat" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="55" alt="Vim" />
-
-<br><br>
+  <img src="https://cdn.simpleicons.org/cisco" width="55" alt="Cisco" />
+  <img src="https://cdn.simpleicons.org/wireshark" width="55" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/hashcat" width="55" alt="Hashcat" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="55" alt="VMware" />
 
 </div>
 
