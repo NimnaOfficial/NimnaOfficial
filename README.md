@@ -127,6 +127,16 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="55" alt="FileZilla" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="55" alt="Visual Studio" />
+
+<p><strong>Systems & Networking</strong></p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="55" alt="Kali Linux" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="55" alt="CentOS" />
+
+<img src="https://cdn.simpleicons.org/cisco" width="55" alt="Cisco" />
+
 </div>
 
 ---
