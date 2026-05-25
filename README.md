@@ -127,6 +127,18 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="55" alt="VMware" />
   <img src="https://cdn.simpleicons.org/hashicorp" width="55" alt="Ferncracker" />
 
+  <br><br>
+
+  <p><strong>🤖 AI Tools & Platforms</strong></p>
+
+<img src="https://cdn.simpleicons.org/googlegemini" width="55" alt="Google Gemini" />
+
+<img src="https://cdn.simpleicons.org/githubcopilot" width="55" alt="GitHub Copilot" />
+
+<img src="https://cdn.simpleicons.org/openrouter" width="55" alt="OpenRouter AI" />
+
+<br><br>
+
 </div>
 
 ---
