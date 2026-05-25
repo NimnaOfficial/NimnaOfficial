@@ -157,10 +157,10 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
 ### 🔗 Featured Projects
 
-| 🚗 AutoHub | 🧺 Lanka Washing System | 🏭 I.P.R.M.S |
+| 🚗 AutoHub | 🛡️ GhostPort OS | 🏭 I.P.R.M.S |
 | :--- | :--- | :--- |
-| Premium auto parts web platform built for seamless user experience. | Hybrid app featuring a responsive web interface and management tools. | Complex logic application utilizing MVC and DAO structures. |
-| [**Explore Repository ➔**](https://github.com/NimnaOfficial/AutoPartsOnline) | [**Explore Repository ➔**](https://github.com/NimnaOfficial/LankaWashingSite) | [**Explore Repository ➔**](https://github.com/NimnaOfficial/LankaWashingApp) |
+| Premium auto parts web platform built for seamless user experience. | Advanced C++ systems utility engineered to optimize local development environments. | Complex logic application utilizing MVC and DAO structures. |
+| [**Explore Repository ➔**](https://github.com/NimnaOfficial/AutoPartsOnline) | [**Explore Repository ➔**](https://github.com/NimnaOfficial/GhostPort) | [**Explore Repository ➔**](https://github.com/NimnaOfficial/LankaWashingApp) |
 
 | 📚 AnyGPA | 🌱 Smart Crop Supply Management |
 | :--- | :--- |
