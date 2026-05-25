@@ -39,8 +39,18 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
   <br><br>
   
   <p><strong>Frontend & Design</strong></p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,figma,illustrator,photoshop&perline=10" alt="Frontend and Design" />
-  <br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React" />
+
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" alt="Tailwind CSS" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="55" alt="Adobe Illustrator" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="55" alt="Adobe Photoshop" />
+
+<br><br>
 
   <p><strong>Backend, Databases & Infrastructure</strong></p>
   <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,mongodb,supabase,git,docker,linux,aws,postman&perline=10" alt="Backend and Infra" />
