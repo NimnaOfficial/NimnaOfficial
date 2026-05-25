@@ -119,8 +119,6 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="55" alt="FileZilla" />
 
-<img src="https://cdn.simpleicons.org/jasper" width="55" alt="Jasper Studio" />
-
 </div>
 
 ---
