@@ -170,12 +170,10 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
 ---
 
-### 📊 GitHub Analytics & Achievements
+### 📊 GitHub Analytics 
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NimnaOfficial&theme=tokyonight&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" />
-  </a>
+  
   <br><br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NimnaOfficial&theme=tokyonight&background=0D1117&ring=500299&fire=500299&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" />
