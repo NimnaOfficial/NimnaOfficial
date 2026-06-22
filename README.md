@@ -31,7 +31,7 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
 ---
 
-### 💻 Tech Stack & Arsenal
+
 
 <div align="center">
 
