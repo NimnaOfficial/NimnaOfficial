@@ -7,7 +7,7 @@
   </blockquote>
 
   <p>
-    
+    <a href="https://github.com/NimnaOfficial">
       <img src="https://komarev.com/ghpvc/?username=NimnaOfficial&label=Profile%20Views&color=500299&style=for-the-badge" alt="Profile Views" />
     </a>
   </p>
