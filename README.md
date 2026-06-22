@@ -2,7 +2,9 @@
   <h1>Hi there, I'm Sandanimne 👋</h1>
   <h3>Software Engineering Student | UI/UX Enthusiast | Full-Stack Developer</h3>
   
-
+  <blockquote>
+    <p><em>"No turns, just straight"</em></p>
+  </blockquote>
 
   <p>
     <a href="https://github.com/NimnaOfficial">
