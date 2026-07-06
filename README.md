@@ -182,3 +182,5 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NimnaOfficial&bg_color=0D1117&color=500299&line=500299&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0D1117,100:500299&section=footer" alt="" width="100%">
