@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello there, I'm Sandanimne </h1>
+  <h1>✌︎︎ •ᴗ• Hello there, I'm Sandanimne </h1>
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=500299&center=true&vCenter=true&width=1000&height=42&lines=Software+Engineering+Student+%7C+UI%2FUX+Enthusiast+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </p>
