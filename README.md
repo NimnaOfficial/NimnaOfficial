@@ -136,7 +136,7 @@ I am a dedicated Software Engineering student currently pursuing my Higher Natio
 
 <img src="https://cdn.simpleicons.org/arduino" width="55" alt="Arduino IDE" />
 
-<img src="https://cdn.simpleicons.org/tinkercad" width="55" alt="Tinkercad" />
+<img src="https://wokwi.com/favicon.png" width="55" alt="Wokwi" />
 
 <br><br>
 
