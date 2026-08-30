@@ -237,15 +237,6 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimnaOfficial&theme=tokyonight" alt="GitHub Contribution Summary" width="100%" />
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
