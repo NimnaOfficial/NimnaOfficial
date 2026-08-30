@@ -215,11 +215,11 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NimnaOfficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Nimna's GitHub Statistics" />
+<img src="./assets/github-stats.svg" alt="Nimna's GitHub Statistics" />
 
 <br><br>
 
@@ -227,11 +227,11 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 <br><br>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<img src="./assets/github-activity.svg" alt="Nimna's GitHub Activity" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NimnaOfficial&theme=github-compact&hide_border=true&custom_title=Nimna%27s%20GitHub%20Activity" alt="Nimna's GitHub Activity Graph" width="100%" />
+<br><br>
 
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimnaOfficial&theme=tokyonight" alt="Nimna's GitHub Contribution Summary" width="100%" />
 
 </div>
 
