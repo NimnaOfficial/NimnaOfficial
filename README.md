@@ -219,7 +219,7 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 <div align="center">
 
-<img src="./assets/github-stats.svg" alt="Nimna's GitHub Statistics" />
+
 
 <br><br>
 
