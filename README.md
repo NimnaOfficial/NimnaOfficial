@@ -219,19 +219,47 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 <div align="center">
 
-
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NimnaOfficial&theme=tokyonight&background=0D1117&ring=500299&fire=500299&currStreakNum=ffffff&hide_border=true" alt="Nimna's GitHub Contribution Streak" />
-
-<br><br>
-
-<img src="./assets/github-activity.svg" alt="Nimna's GitHub Activity" width="100%" />
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=NimnaOfficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  alt="Nimna's GitHub Stats"
+/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimnaOfficial&theme=tokyonight" alt="Nimna's GitHub Contribution Summary" width="100%" />
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimnaOfficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Nimna's Top Languages"
+/>
+
+<br><br>
+
+<!-- Contribution Streak -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=NimnaOfficial&theme=tokyonight&background=0D1117&ring=500299&fire=500299&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=500299&sideLabels=8B949E&dates=8B949E&hide_border=true"
+  alt="Nimna's GitHub Contribution Streak"
+/>
+
+<br><br>
+
+<!-- Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=NimnaOfficial&theme=tokyo-night&hide_border=true&area=true"
+  alt="Nimna's GitHub Activity Graph"
+  width="100%"
+/>
+
+<br><br>
+
+<!-- Contribution Snake -->
+<p>
+  <img
+    src="https://raw.githubusercontent.com/NimnaOfficial/NimnaOfficial/output/github-contribution-grid-snake-dark.svg"
+    alt="Nimna's GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 
 </div>
 
