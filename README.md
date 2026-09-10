@@ -243,18 +243,11 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 <br><br>
 
-<!-- Top Project: AutoHub (NEW) -->
+<!-- GitHub Contribution Calendar (NEW) -->
 <img
-  src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NimnaOfficial&repo=AutoPartsOnline&theme=tokyonight&hide_border=true"
-  alt="Nimna's Pinned Project: AutoHub"
-/>
-
-<br><br>
-
-<!-- Top Project: GhostPort (NEW) -->
-<img
-  src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NimnaOfficial&repo=GhostPort&theme=tokyonight&hide_border=true"
-  alt="Nimna's Pinned Project: GhostPort"
+  src="https://ghchart.rshah.org/500299/NimnaOfficial"
+  alt="Nimna's GitHub Contribution Calendar"
+  width="100%"
 />
 
 <br><br>
