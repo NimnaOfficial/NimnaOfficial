@@ -252,7 +252,6 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 <br><br>
 
-<!-- Developer Joke Card (NEW) -->
 <img
   src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true"
   alt="Developer Joke"
@@ -260,7 +259,6 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 <br><br>
 
-<!-- Daily Dev Quote (NEW) -->
 <img
   src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
   alt="Daily Dev Quote"
