@@ -1,15 +1,15 @@
 <div align="center">
 
-#  Hello there, I'm Sandanimne ✌︎ •ᴗ•
+# Hello there, I'm Sandanimne ✌︎ •ᴗ•
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=500299&center=true&vCenter=true&width=1000&height=42&lines=Software+Engineering+Student+%7C+UI%2FUX+Enthusiast+%7C+Full-Stack+Developer" alt="Software Engineering Student, UI/UX Enthusiast, Full-Stack Developer" />
 
-> *"No turns, just straight."*
+> _"No turns, just straight."_
 
 <br>
 
 <a href="https://github.com/NimnaOfficial">
-  <img src="https://komarev.com/ghpvc/?username=NimnaOfficial&label=Profile%20Views&color=500299&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-431-%23500299.svg?style=for-the-badge" alt="Profile Views" />
 </a>
 
 <br><br>
@@ -42,25 +42,25 @@ I enjoy turning complex technical problems into software that is not only functi
 
 ### 🚀 Currently Exploring
 
-* 🖥️ Advanced System Administration
-* 🤖 Artificial Intelligence & LLM technologies
-* 🌐 Full-Stack Web Development
-* 📱 Cross-Platform Application Development
-* 🔐 Networking & Cybersecurity
-* 🎨 UI/UX Engineering
-* ⚙️ Scalable Software Architecture
+- 🖥️ Advanced System Administration
+- 🤖 Artificial Intelligence & LLM technologies
+- 🌐 Full-Stack Web Development
+- 📱 Cross-Platform Application Development
+- 🔐 Networking & Cybersecurity
+- 🎨 UI/UX Engineering
+- ⚙️ Scalable Software Architecture
 
 ### 🤝 Collaboration
 
 I'm interested in collaborating on:
 
-* Open-source UI/UX projects
-* Full-stack applications
-* PHP & Java backend systems
-* Cross-platform applications
-* AI-powered tools
-* Developer utilities
-* Innovative software projects
+- Open-source UI/UX projects
+- Full-stack applications
+- PHP & Java backend systems
+- Cross-platform applications
+- AI-powered tools
+- Developer utilities
+- Innovative software projects
 
 ### 💡 Development Philosophy
 
@@ -76,12 +76,12 @@ I particularly enjoy working with architectural patterns such as **MVC** and **D
 
 When I'm not coding or configuring systems, you'll probably find me:
 
-* 🎬 Creating cinematic videos
-* 💻 Exploring new technology
-* 🧩 Experimenting with software and hardware
-* 🌐 Exploring internet culture
-* ⚽ Following football
-* 🎮 Gaming
+- 🎬 Creating cinematic videos
+- 💻 Exploring new technology
+- 🧩 Experimenting with software and hardware
+- 🌐 Exploring internet culture
+- ⚽ Following football
+- 🎮 Gaming
 
 ---
 
@@ -199,16 +199,16 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 <div align="center">
 
-|                                  🚗 AutoHub                                  |                             🛡️ GhostPort OS                             |                                 🏭 I.P.R.M.S                                 |
+|                                  🚗 AutoHub                                  |                             🛡️ GhostPort OS                              |                                 🏭 I.P.R.M.S                                 |
 | :--------------------------------------------------------------------------: | :----------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 |    Premium auto parts web platform focused on a seamless user experience.    | C++ systems utility designed to optimize local development environments. |        Logic-driven application built using MVC and DAO architecture.        |
 | [**Explore Repository →**](https://github.com/NimnaOfficial/AutoPartsOnline) |  [**Explore Repository →**](https://github.com/NimnaOfficial/GhostPort)  | [**Explore Repository →**](https://github.com/NimnaOfficial/LankaWashingApp) |
 
 <br>
 
-|                              📚 AnyGPA                              |                                🌱 Smart Crop Supply Management                               |
+|                              📚 AnyGPA                              |                               🌱 Smart Crop Supply Management                                |
 | :-----------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
-|         Academic grading management and calculation utility.        |             Supply-chain logic and tracking platform for agricultural resources.             |
+|        Academic grading management and calculation utility.         |             Supply-chain logic and tracking platform for agricultural resources.             |
 | [**Explore Repository →**](https://github.com/NimnaOfficial/AnyGPA) | [**Explore Repository →**](https://github.com/NimnaOfficial/SmartCropSupplyManagementSystem) |
 
 </div>
@@ -220,6 +220,7 @@ When I'm not coding or configuring systems, you'll probably find me:
 <div align="center">
 
 <!-- GitHub Stats (Stable Instance) -->
+
 <img
   src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=NimnaOfficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
   alt="Nimna's GitHub Stats"
@@ -228,6 +229,7 @@ When I'm not coding or configuring systems, you'll probably find me:
 <br><br>
 
 <!-- Top Languages (Stable Instance) -->
+
 <img
   src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NimnaOfficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   alt="Nimna's Top Languages"
@@ -236,6 +238,7 @@ When I'm not coding or configuring systems, you'll probably find me:
 <br><br>
 
 <!-- Contribution Streak (Stable Modern Instance) -->
+
 <img
   src="https://streak-stats.demolab.com/?user=NimnaOfficial&theme=tokyonight&background=0D1117&ring=500299&fire=500299&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=500299&sideLabels=8B949E&dates=8B949E&hide_border=true"
   alt="Nimna's GitHub Contribution Streak"
@@ -244,6 +247,7 @@ When I'm not coding or configuring systems, you'll probably find me:
 <br><br>
 
 <!-- GitHub Contribution Calendar (NEW) -->
+
 <img
   src="https://ghchart.rshah.org/500299/NimnaOfficial"
   alt="Nimna's GitHub Contribution Calendar"
@@ -267,7 +271,6 @@ When I'm not coding or configuring systems, you'll probably find me:
 </div>
 
 ---
-
 
 # 🌐 Connect With Me
 
