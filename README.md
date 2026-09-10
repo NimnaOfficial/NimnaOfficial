@@ -219,23 +219,23 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 <div align="center">
 
-<!-- GitHub Stats (Fixed Instance) -->
+<!-- GitHub Stats (Stable Instance) -->
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=NimnaOfficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=NimnaOfficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
   alt="Nimna's GitHub Stats"
 />
 
 <br><br>
 
-<!-- Top Languages (Fixed Instance) -->
+<!-- Top Languages (Stable Instance) -->
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NimnaOfficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NimnaOfficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   alt="Nimna's Top Languages"
 />
 
 <br><br>
 
-<!-- Contribution Streak (Modern Instance) -->
+<!-- Contribution Streak (Stable Modern Instance) -->
 <img
   src="https://streak-stats.demolab.com/?user=NimnaOfficial&theme=tokyonight&background=0D1117&ring=500299&fire=500299&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=500299&sideLabels=8B949E&dates=8B949E&hide_border=true"
   alt="Nimna's GitHub Contribution Streak"
@@ -243,26 +243,26 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 <br><br>
 
-<!-- Profile Details Summary (NEW) -->
+<!-- Top Project: AutoHub (NEW) -->
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimnaOfficial&theme=tokyonight"
-  alt="Nimna's Profile Details"
+  src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NimnaOfficial&repo=AutoPartsOnline&theme=tokyonight&hide_border=true"
+  alt="Nimna's Pinned Project: AutoHub"
 />
 
 <br><br>
 
-<!-- Repos Per Language (NEW) -->
+<!-- Top Project: GhostPort (NEW) -->
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NimnaOfficial&theme=tokyonight"
-  alt="Nimna's Repos Per Language"
+  src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NimnaOfficial&repo=GhostPort&theme=tokyonight&hide_border=true"
+  alt="Nimna's Pinned Project: GhostPort"
 />
 
 <br><br>
 
-<!-- Productive Time (NEW) -->
+<!-- Developer Joke Card (NEW) -->
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NimnaOfficial&theme=tokyonight&utcOffset=5.5"
-  alt="Nimna's Productive Time"
+  src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true"
+  alt="Developer Joke"
 />
 
 <br><br>
