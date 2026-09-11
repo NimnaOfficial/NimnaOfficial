@@ -246,7 +246,6 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 <br><br>
 
-<!-- GitHub Contribution Calendar (NEW) -->
 
 <img
   src="https://ghchart.rshah.org/500299/NimnaOfficial"
