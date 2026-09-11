@@ -219,7 +219,6 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 <div align="center">
 
-<!-- GitHub Stats (Stable Instance) -->
 
 <img
   src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=NimnaOfficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
@@ -228,24 +227,20 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 <br><br>
 
-<!-- Top Languages (Stable Instance) -->
 
 <img
   src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NimnaOfficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   alt="Nimna's Top Languages"
 />
 
-<br><br>
-
-<!-- Contribution Streak (Stable Modern Instance) -->
+<br>
 
 <img
   src="https://streak-stats.demolab.com/?user=NimnaOfficial&theme=tokyonight&background=0D1117&ring=500299&fire=500299&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=500299&sideLabels=8B949E&dates=8B949E&hide_border=true"
   alt="Nimna's GitHub Contribution Streak"
 />
 
-<br><br>
-
+<br>
 
 <img
   src="https://ghchart.rshah.org/500299/NimnaOfficial"
@@ -259,8 +254,6 @@ When I'm not coding or configuring systems, you'll probably find me:
   src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true"
   alt="Developer Joke"
 />
-
-<br><br>
 
 <img
   src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
