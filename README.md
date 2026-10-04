@@ -6,7 +6,6 @@
 
 > _"No turns, just straight."_
 
-
 <br>
 
 <a href="https://github.com/NimnaOfficial">
