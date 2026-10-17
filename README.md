@@ -241,14 +241,6 @@ When I'm not coding or configuring systems, you'll probably find me:
   alt="Nimna's GitHub Contribution Streak"
 />
 
-<br>
-
-<img
-  src="https://ghchart.rshah.org/500299/NimnaOfficial"
-  alt="Nimna's GitHub Contribution Calendar"
-  width="100%"
-/>
-
 <br><br>
 
 <img
