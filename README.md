@@ -194,25 +194,6 @@ When I'm not coding or configuring systems, you'll probably find me:
 
 </div>
 
----
-
-# 🔗 Featured Projects
-
-<div align="center">
-
-|                                  🚗 AutoHub                                  |                             🛡️ GhostPort OS                              |                                 🏭 I.P.R.M.S                                 |
-| :--------------------------------------------------------------------------: | :----------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-|    Premium auto parts web platform focused on a seamless user experience.    | C++ systems utility designed to optimize local development environments. |        Logic-driven application built using MVC and DAO architecture.        |
-| [**Explore Repository →**](https://github.com/NimnaOfficial/AutoPartsOnline) |  [**Explore Repository →**](https://github.com/NimnaOfficial/GhostPort)  | [**Explore Repository →**](https://github.com/NimnaOfficial/LankaWashingApp) |
-
-<br>
-
-|                              📚 AnyGPA                              |                               🌱 Smart Crop Supply Management                                |
-| :-----------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
-|        Academic grading management and calculation utility.         |             Supply-chain logic and tracking platform for agricultural resources.             |
-| [**Explore Repository →**](https://github.com/NimnaOfficial/AnyGPA) | [**Explore Repository →**](https://github.com/NimnaOfficial/SmartCropSupplyManagementSystem) |
-
-</div>
 
 ---
 
