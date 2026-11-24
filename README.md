@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Profile%20Views-431-%23500299.svg?style=for-the-badge" alt="Profile Views" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://nimnaofficial.github.io/My-Portfolio">
   <img src="https://img.shields.io/badge/Portfolio-%23500299.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
@@ -139,7 +139,7 @@ When I'm not coding or configuring systems, you'll probably find me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" />
 <img src="https://cdn.simpleicons.org/vercel" width="55" alt="Vercel" />
 <img src="https://cdn.simpleicons.org/render" width="55" alt="Render" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="55" alt="FileZilla" />
